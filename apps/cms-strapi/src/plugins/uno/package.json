@@ -36,10 +36,10 @@
 		"test": "echo \"no test specified\" && exit 0"
 	},
 	"dependencies": {
-		"@strapi/design-system": "1.8.2",
-		"@strapi/helper-plugin": "4.11.7",
-		"@strapi/icons": "1.8.2",
-		"@strapi/strapi": "4.11.7"
+		"@strapi/design-system": "1.19.0",
+		"@strapi/helper-plugin": "4.25.12",
+		"@strapi/icons": "1.19.0",
+		"@strapi/strapi": "4.25.18"
 	},
 	"devDependencies": {
 		"@strapi/database": "4.11.7",
